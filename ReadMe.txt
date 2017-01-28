@@ -5,7 +5,7 @@ cd documents/data/university/subjects/fall '16/EECS 233/final/final/src
 
 Compilation:
 javac solve.java
-
+shley test:
 or
 
 "C:\Program Files\Java\jdk1.8.0_111\bin\javac" solve.java
